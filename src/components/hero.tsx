@@ -70,7 +70,7 @@ export function Hero() {
             transition={{ duration: 0.8, delay: 0.6 }}
           >
             <p className="text-xl sm:text-2xl text-muted-foreground">
-              Online AI services that feel like magic.
+              🚀 [STAGING TEST] Online AI services that feel like magic.
             </p>
             <p className="text-lg text-muted-foreground/80">
               From smart playlists to university matching, explore what we build on the web.
