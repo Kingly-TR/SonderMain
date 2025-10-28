@@ -33,7 +33,7 @@ export function Navbar() {
           {/* Logo */}
           <Link href="/" className="flex items-center space-x-2">
             <motion.span
-              className="text-xl font-bold bg-gradient-to-r from-foreground via-foreground to-green-600 bg-clip-text text-transparent"
+              className="text-xl font-bold bg-gradient-to-r from-primary via-primary to-accent bg-clip-text text-transparent"
               whileHover={{ scale: 1.05 }}
               transition={{ type: "spring", stiffness: 400, damping: 10 }}
             >
